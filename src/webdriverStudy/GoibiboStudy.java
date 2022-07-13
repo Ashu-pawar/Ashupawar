@@ -15,7 +15,7 @@ public class GoibiboStudy {
 		driver.get("https://www.goibibo.com/bus/");
 		driver.findElement(By.xpath("(//input[@spellcheck='false'])[1]")).sendKeys("pune");
 		
-	
+	System.out.println("ashu");
 
 	}
 
